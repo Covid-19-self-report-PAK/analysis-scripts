@@ -27,4 +27,4 @@ echo $now > last_update.txt
 git add .
 git commit -m "update $now"
 git pull origin master
-git push -u origin master
+git push -u origin master --force
