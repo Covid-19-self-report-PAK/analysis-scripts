@@ -10,7 +10,7 @@ alias deactivate 'test $?_OLD_VIRTUAL_PATH != 0 && setenv PATH "$_OLD_VIRTUAL_PA
 # Unset irrelevant variables.
 deactivate nondestructive
 
-setenv VIRTUAL_ENV '/Applications/XAMPP/xamppfiles/htdocs/Covid-19/analysis-report-pak/analysis-scripts/mypython'
+setenv VIRTUAL_ENV '/Applications/XAMPP/xamppfiles/htdocs/Covid-19/analysis-scripts-final/mypython'
 
 set _OLD_VIRTUAL_PATH="$PATH:q"
 setenv PATH "$VIRTUAL_ENV:q/bin:$PATH:q"

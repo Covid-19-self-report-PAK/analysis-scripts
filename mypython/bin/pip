@@ -1,4 +1,4 @@
-#!/Applications/XAMPP/xamppfiles/htdocs/Covid-19/analysis-report-pak/analysis-scripts/mypython/bin/python
+#!/Applications/XAMPP/xamppfiles/htdocs/Covid-19/analysis-scripts-final/mypython/bin/python
 # -*- coding: utf-8 -*-
 import re
 import sys

@@ -28,7 +28,7 @@ def _deactivate(args):
 _deactivate(["nondestructive"])
 aliases["deactivate"] = _deactivate
 
-$VIRTUAL_ENV = r"/Applications/XAMPP/xamppfiles/htdocs/Covid-19/analysis-report-pak/analysis-scripts/mypython"
+$VIRTUAL_ENV = r"/Applications/XAMPP/xamppfiles/htdocs/Covid-19/analysis-scripts-final/mypython"
 
 $_OLD_VIRTUAL_PATH = $PATH
 $PATH = $PATH[:]

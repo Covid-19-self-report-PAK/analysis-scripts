@@ -57,7 +57,7 @@ end
 # Unset irrelevant variables.
 deactivate nondestructive
 
-set -gx VIRTUAL_ENV '/Applications/XAMPP/xamppfiles/htdocs/Covid-19/analysis-report-pak/analysis-scripts/mypython'
+set -gx VIRTUAL_ENV '/Applications/XAMPP/xamppfiles/htdocs/Covid-19/analysis-scripts-final/mypython'
 
 # https://github.com/fish-shell/fish-shell/issues/436 altered PATH handling
 if test (echo $FISH_VERSION | head -c 1) -lt 3

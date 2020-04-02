@@ -46,7 +46,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV='/Applications/XAMPP/xamppfiles/htdocs/Covid-19/analysis-report-pak/analysis-scripts/mypython'
+VIRTUAL_ENV='/Applications/XAMPP/xamppfiles/htdocs/Covid-19/analysis-scripts-final/mypython'
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
